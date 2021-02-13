@@ -1,6 +1,6 @@
 Hi, I’m @Tattoosavage
 I’m only looking after this 1 repo.  Its for Spectre Operations, a small Skirmish game.  This was my first ever delve into BSData authoring.
-Ime very much a beginner on Github !
+I'm very much a beginner on Github !
 
 
 <!---
